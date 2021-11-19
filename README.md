@@ -6,7 +6,7 @@ This is a project that details what Delani Studio does and their works. Addition
 ## Project live site
   This is the live .[ Click for the demo](https://leondante-ctrl.github.io/delanitime)
 
-  ![Image](file:///home/dante/Documents/moringa-school-projects/IP3-master/%20Delani%20Studio.jpg)
+  ![Image]('https://github.com/jonnygovish/IP3/blob/master/assets/backgrounds/h_img.jpg?raw=true')
 
 ## Setup instructions
 * Clone the program from [Online repo](https://leondante-ctrl.github.io/delanitime)
@@ -22,6 +22,6 @@ This is a project that details what Delani Studio does and their works. Addition
 ## Support and contact details
 contact me @ maxgamerdu@gmail.com
 ### License
-The project is under[MIT license](https://github.com/LeonDante-ctrl/delanitime/blob/master/LICENSE)
+The project is under [MIT license](https://github.com/LeonDante-ctrl/delanitime/blob/master/LICENSE)
 Copyright &copy; 2021. All rights are most definately reserved
   
