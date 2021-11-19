@@ -4,7 +4,7 @@
 ## Description
 This is a project that details what Delani Studio does and their works. Additionally, it allows users to send messages and receive email confirmations n receival of the messages by the company.
 ## Project live site
-  This is the live .[ Click for the demo](https://leondante-ctrl.github.io/delanisite/)
+  This is the live .[ Click for the demo](https://leondante-ctrl.github.io/delanitime)
 
   ![Image](file:///home/dante/Documents/moringa-school-projects/IP3-master/%20Delani%20Studio.jpg)
 
