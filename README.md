@@ -22,6 +22,6 @@ This is a project that details what Delani Studio does and their works. Addition
 ## Support and contact details
 contact me @ maxgamerdu@gmail.com
 ### License
-The project is under[MIT license](https://github.com/leondante-ctrl/delanisite/LICENSE)
+The project is under[MIT license](https://github.com/LeonDante-ctrl/delanitime/blob/master/LICENSE)
 Copyright &copy; 2021. All rights are most definately reserved
   
