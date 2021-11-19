@@ -31,5 +31,11 @@ $(".p2").click(function(){
     $(".image3").toggle(1200);
     $(".image3").show(1200);
   });  
+  $('.text').hover(function () {
+    $(this).animate({opacity:'1'});
+    },
+    function () {
+    $(this).animate({opacity:'0'});
+})
 
 });
