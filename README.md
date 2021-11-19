@@ -9,7 +9,7 @@ This is a project that details what Delani Studio does and their works. Addition
   ![Image](file:///home/dante/Documents/moringa-school-projects/IP3-master/%20Delani%20Studio.jpg)
 
 ## Setup instructions
-* Clone the program from [Online repo](https://github.com/leondante-ctrl/delanistudio)
+* Clone the program from [Online repo](https://leondante-ctrl.github.io/delanitime)
 * Click on the green button to clone or download
 
 ## Technologies Used
