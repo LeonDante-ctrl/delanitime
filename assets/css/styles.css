@@ -29,3 +29,8 @@ body {
     margin: 50px auto;
     text-decoration-color: antiquewhite;
 }
+#section-3 {
+    color: floralwhite;
+    background-image: url('https://github.com/jonnygovish/IP3/blob/master/assets/backgrounds/s_image.jpg?raw=true');
+    padding: 100px 10%;
+}
