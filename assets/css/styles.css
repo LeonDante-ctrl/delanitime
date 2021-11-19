@@ -55,3 +55,36 @@ body {
     height: 155px;
     margin: 5px;
 }
+
+.A {
+    background-image: url('https://github.com/jonnygovish/IP3/blob/master/assets/portfolio/work1.jpg?raw=true');
+    background-size: cover
+}
+.B {
+    background-image: url('https://github.com/jonnygovish/IP3/blob/master/assets/portfolio/work2.jpg?raw=true');
+    background-size: cover
+}
+.C {
+    background-image: url('https://github.com/jonnygovish/IP3/blob/master/assets/portfolio/work3.jpg?raw=true');
+    background-size: cover
+}
+.D {
+    background-image: url('https://github.com/jonnygovish/IP3/blob/master/assets/portfolio/work4.jpg?raw=true');
+    background-size: cover
+}
+.E {
+    background-image: url('https://github.com/jonnygovish/IP3/blob/master/assets/portfolio/work5.jpg?raw=true');
+    background-size: cover
+}
+.F {
+    background-image: url('https://github.com/jonnygovish/IP3/blob/master/assets/portfolio/work6.jpg?raw=true');
+    background-size: cover
+}
+.G {
+    background-image: url('https://github.com/jonnygovish/IP3/blob/master/assets/portfolio/work7.jpg?raw=true');
+    background-size: cover
+}
+.H {
+    background-image: url('https://github.com/jonnygovish/IP3/blob/master/assets/portfolio/work8.jpg?raw=true');
+    background-size: cover
+}
