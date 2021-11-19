@@ -23,3 +23,9 @@
 body {
     text-align: center;
 }
+
+#section-2 {
+
+    margin: 50px auto;
+    text-decoration-color: antiquewhite;
+}
