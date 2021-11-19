@@ -34,3 +34,11 @@ body {
     background-image: url('https://github.com/jonnygovish/IP3/blob/master/assets/backgrounds/s_image.jpg?raw=true');
     padding: 100px 10%;
 }
+#section-4 h1 {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.p1,.p2,.p3 {
+    text-decoration: lightcoral;
+    display: none;
+}
