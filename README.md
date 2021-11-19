@@ -6,8 +6,6 @@ This is a project that details what Delani Studio does and their works. Addition
 ## Project live site
   This is the live .[ Click for the demo](https://leondante-ctrl.github.io/delanitime)
 
-  ![Image]('https://github.com/jonnygovish/IP3/blob/master/assets/backgrounds/h_img.jpg?raw=true')
-
 ## Setup instructions
 * Clone the program from [Online repo](https://leondante-ctrl.github.io/delanitime)
 * Click on the green button to clone or download
