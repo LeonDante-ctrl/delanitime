@@ -42,3 +42,16 @@ body {
     text-decoration: lightcoral;
     display: none;
 }
+#section- {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    max-width: 70vw;
+    margin: 30px auto;
+    padding: 4.7px
+}
+.A,.B,.C,.D,.E,.F,.G,.H {
+    width: 155px;
+    height: 155px;
+    margin: 5px;
+}
